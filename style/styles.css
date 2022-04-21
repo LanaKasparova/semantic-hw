@@ -1,0 +1,89 @@
+section{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+header{
+    background: dodgerblue;
+    color: white;
+    font-size: 20px;
+    margin: 25px 5px;
+}
+h1{
+    text-align: right;
+}
+aside{
+    background-color: white;
+    text-align: right;
+    padding: 5px 0;
+}
+a{
+    padding: 10px;
+    color: dodgerblue;
+    font-weight: bold;
+}
+#image {
+    width: 190px;
+    margin: 0 0 20px 0;
+}
+h3{
+    font-size: 20px;
+    color: dodgerblue;
+}
+ul, ol, p, dd{
+    font-size: 15px;
+}
+p{
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+#experience>li{
+    color: #daa520;
+    font-weight: bold;
+    font-size: 18px;
+    margin: inherit;
+    list-style: square;
+}
+#experience>li p{
+    margin: inherit;
+    color: black;
+    font-weight: normal;
+}
+span{
+    color: #060080;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color: white;
+    background-color: dodgerblue;
+}
+.row{
+    display: flex;
+}
+.block{
+    display: block;
+    padding: 10px;
+}
+a{
+    font-size: 15px;
+    text-align: right;
+}
+#skills{
+    padding: 10px 0;
+}
+dl>dt{
+    background-color: lightgrey;
+    color: white;
+    font-size: 15px;
+}
+dl>dd{
+    margin-left: 40px;
+}
+footer{
+    background-color: dodgerblue;
+    color: white;
+    font-size: 15px;
+    display: block;
+    font-style: italic;
+    padding: 0 0 0 1000px;
+}
